@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tranalho de Desenvolvimento Web</title>
+    <meta name="author" content="Fernando Dias Araujo">
+    <meta name="keywords" content="HTML, CSS, Java Script, Pyton"
+    <meta name="descripition" content="Tutoriais de Web Gratis"
+    <link rel="icon" href="C:\Users\Fernando Dias Araújo\Desktop\FATEC\Design_Web\Imagem\Imagem do WhatsApp de 2025-02-28 à(s) 08.39.05_39aee292.jpg">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div id="container"></div>
+    <header>
+        <h1>Seja Bem Vindo ao Trabalho de Desenvolvimento Web</h1>
+    </header>
+    <nav>
+        <p>Barra de Navegação</p>
+    </nav>
+    <main>
+        <div>Trabalho de Desenvolvimento Web</div>
+        <img src="C:\Users\Fernando Dias Araújo\Desktop\FATEC\Design_Web\Imagem\Imagem do WhatsApp de 2025-02-28 à(s) 08.39.05_39aee292.jpg">
+    </main>
+    <footer>
+        Trabalho de Desenvolvimento Web: Fernando Dias Araujo
+    </footer>
+</body>
+<body>
+    <header>
+        <h1>Topo</h1>
+        <img src="C:\Users\Fernando Dias Araújo\Desktop\FATEC\Design_Web\Imagem\Imagem do WhatsApp de 2025-02-28 à(s) 08.39.05_39aee292.jpg">
+        <nav>MENU</nav>
+        <main>Barra de Tarefas</main>
+        <footer>opções</footer>
+    </header>
+</body>
+</html>
